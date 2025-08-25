@@ -343,7 +343,7 @@ function e($text) {
             <?php endif; ?>
         </div>
         
-        <!-- Footer -->
+        <!-- Footer Igor-->
         <div style="text-align: center; padding: 20px; color: #6c757d; font-size: 0.9rem; border-top: 1px solid #e9ecef;">
             <p>📝 <?php echo APP_NAME; ?> v<?php echo APP_VERSION; ?> - Créé avec ❤️ en PHP & MySQL</p>
             <p style="margin-top: 5px; font-size: 0.8rem;">
